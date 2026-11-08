@@ -11,7 +11,7 @@ The app checks the releases here for updates.
 
 ## Download
 
-Get the **`Setup.exe`** from the [latest release](https://github.com/SzebeniBenceASZEBE/Nyxa-releases/releases/latest)
+Get **`SzeBe.Nyxa-beta-Setup.exe`** from the [latest release](https://github.com/SzebeniBenceASZEBE/Nyxa-releases/releases/latest)
 and run it. No administrator rights are needed: Nyxa installs for your Windows user only.
 
 **Requirements:** Windows 10 or 11, 64-bit, and the Microsoft Edge WebView2 Runtime, which comes
